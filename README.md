@@ -1,5 +1,11 @@
-# -🎯 现代企业官网布局
-🎬 人物图片动态浮动 + 渐入动画
-✨ 卡片悬浮动画
-📱 响应式设计
-⚡ 纯前端（无需框架）
+ai-webpack-deploy/
+├── src/
+│   └── index.js
+├── dist/
+├── scripts/
+│   └── generate.js        # 🤖 AI生成代码
+├── webpack.config.js      # 📦 打包配置
+├── package.json
+├── .github/
+│   └── workflows/
+│       └── webpack.yml    # 🚀 自动部署
